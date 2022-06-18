@@ -1,6 +1,6 @@
 # FOPRA34: Simulating Quantum Many-body Dynamics on a Current Digital Computer
 
-This repository contains my code for the Advanced Lab Course on 'Simulating Quantum Many-body Dyanmics on a Current Digital Quantum Computer'. The advanced lab course (FOPRA) is a part of the Quantum Science & Technology MSc program at TUM/LMU. 
+This repository contains my code for the Advanced Lab Course on *'Simulating Quantum Many-body Dyanmics on a Current Digital Quantum Computer'*. The advanced lab course (FOPRA) is a part of the Quantum Science & Technology MSc program at TUM/LMU. 
 
 The aim of this advanced lab course was to get familiar with using Cirq, and also tap into some advanced methods relevant for cutting-edge quantum information and quantum simulation research. The scripts include the following:
 
